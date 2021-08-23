@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574465668 source:/home/roo/Documents/UPY/Quater 8/HPC/Partial3/Determinante/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+
